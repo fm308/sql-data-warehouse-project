@@ -50,6 +50,6 @@ The technical process was divided into four distinct stages:
 
 ## How to Run
 1.  **Database:** Ensure you have the `AdventureWorksDW` database restored on your SQL Server instance.
-2.  **SQL Views:** Execute the scripts provided in the `/sql_scripts/` folder to prepare the reporting layer.
-3.  **Power BI:** Open the `.pbix` file from the `/dashboard/` directory.
+2.  **SQL Views:** Execute the scripts provided in the `/scripts/` folder to prepare the reporting layer.
+3.  **Power BI:** Open the `.pbix` file from the `/power_bi/` directory.
 4.  **Connection:** Update the Data Source settings to link to your local SQL Server instance.
