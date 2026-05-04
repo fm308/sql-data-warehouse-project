@@ -32,7 +32,7 @@ The technical process was divided into four distinct stages:
 **Global Sales & Product Performance Analysis**
 
 <p align="center">
-  <img src="docs/image_3abe7a.jpg" width="100%" alt="AdventureWorks Dashboard Preview">
+  <img src="docs/dashboard.jpg" width="100%" alt="AdventureWorks Dashboard Preview">
 </p>
 
 ### **Analytical Insights:**
